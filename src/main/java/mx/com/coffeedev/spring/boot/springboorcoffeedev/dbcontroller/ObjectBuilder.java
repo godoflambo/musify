@@ -32,7 +32,6 @@ public class ObjectBuilder {
                 if(dbResults.getLong(1) == controlId){
                     newArtist.getStyles().add(new Style(dbResults.getLong(4),
                             dbResults.getString(5)));
-                    break;
                 }else{
                     dbResults.previous();
                     break;
