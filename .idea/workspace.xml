@@ -2,64 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e2d01179-402e-4603-a403-fb929cb3b745" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.mvn/wrapper/MavenWrapperDownloader.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/HELP.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jdbc/mysql-connector-java-5.1.47.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mvnw" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/mvnw.cmd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/SpringboorCoffeeDevApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/controller/Controller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseConnector.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseHelper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/ObjectBuilder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/basicModels/Artist.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/basicModels/People.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/basicModels/Style.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/general/GeneralRS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/general/NMRelation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistByStyleRS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistListRS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/RelatedArtistsRS.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/src/test/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/SpringboorCoffeeDevApplicationTests.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/META-INF/springboor-coffee-dev.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/SpringboorCoffeeDevApplication.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/controller/Controller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseConnector.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseHelper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/ObjectBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/basicModels/Artist.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/basicModels/People.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/basicModels/Style.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/general/GeneralRS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/general/NMRelation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/general/StatusInfo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistByStyleRS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistListRS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/RelatedArtistsRS.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/test-classes/META-INF/springboor-coffee-dev.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/target/test-classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/SpringboorCoffeeDevApplicationTests.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/controller/Controller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseConnector.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseConnector.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/basicModels/Artist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/basicModels/Artist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistByStyleRS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistByStyleRS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistListRS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistListRS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/RelatedArtistsRS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/RelatedArtistsRS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springboor-coffee-dev.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseConnector.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseConnector.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/springboor-coffee-dev.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseHelper.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -73,17 +18,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/controller/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
+            <state relative-caret-position="401">
+              <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistByStyleRS.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/general/NMRelation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="34">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -100,7 +45,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/RelatedArtistsRS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="425">
               <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -139,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseHelper.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            <state relative-caret-position="357">
+              <caret line="47" selection-start-line="47" selection-end-line="47" />
             </state>
           </provider>
         </entry>
@@ -148,8 +93,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseConnector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="125" column="54" selection-start-line="125" selection-start-column="54" selection-end-line="125" selection-end-column="54" />
+            <state relative-caret-position="320">
+              <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -176,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistListRS.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/RelatedArtistsRS.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/basicModels/Artist.java" />
+        <option value="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseHelper.java" />
         <option value="$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseConnector.java" />
       </list>
     </option>
@@ -187,9 +133,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="429" />
-    <option name="y" value="-8" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-1581" />
+    <option name="y" value="166" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -199,6 +145,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,7 +230,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -291,8 +237,8 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1560791490987" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/jdbc/mysql-connector-java-5.1.47.jar!/" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -340,10 +286,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-1928" y="166" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25198728" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.34061834" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -352,7 +298,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32969603" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4582882" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3998441" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -372,24 +318,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/SpringboorCoffeeDevApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
-          <caret line="59" column="40" selection-start-line="59" selection-start-column="40" selection-end-line="59" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/ArtistByStyleRS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -402,7 +334,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/responses/RelatedArtistsRS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="425">
           <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -431,17 +363,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseHelper.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/SpringboorCoffeeDevApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/models/general/NMRelation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="401">
+          <caret line="62" column="28" selection-start-line="62" selection-start-column="28" selection-end-line="62" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseHelper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="47" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/mx/com/coffeedev/spring/boot/springboorcoffeedev/dbcontroller/DataBaseConnector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="125" column="54" selection-start-line="125" selection-start-column="54" selection-end-line="125" selection-end-column="54" />
+        <state relative-caret-position="320">
+          <caret line="165" column="5" selection-start-line="165" selection-start-column="5" selection-end-line="165" selection-end-column="5" />
         </state>
       </provider>
     </entry>

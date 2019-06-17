@@ -159,7 +159,7 @@ public class DataBaseConnector {
 
             st.executeUpdate();
 
-            return new GeneralRS(DataBaseHelper.STATUS_OK, DataBaseHelper.MESSAGE_PEOPLE_ASSIGNED);
+            return new GeneralRS(DataBaseHelper.STATUS_OK, DataBaseHelper.MESSAGE_ARTIST_RELATED);
         } catch (SQLException e) {
             return new GeneralRS(DataBaseHelper.STATUS_KO, DataBaseHelper.MESSAGE_BAD_REQUEST);
         }

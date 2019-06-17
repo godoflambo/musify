@@ -44,6 +44,7 @@ public class DataBaseHelper {
     public static final String MESSAGE_REL_DELETED = "Relation deleted successful";
     public static final String MESSAGE_QUERY_OK = "Query executed successful";
     public static final String MESSAGE_NO_RESULTS = "No reults found";
+    public static final String MESSAGE_ARTIST_RELATED = "Artist related successful";
 
 
 }
